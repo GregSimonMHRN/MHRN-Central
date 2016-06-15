@@ -1,10 +1,17 @@
 # MHRN-Central
-Publicly-available resources from the Mental Health Research Network
+Publicly-available resources from the Mental Health Research Network (MHRN)
 
-You can find us at http://hcsrn.org/mhrn/en/
+MHRN brings together mental health researchers and research departments embedded in 13 large and diverse healthcare systems in a population-based approach to transforming mental health care; with expertise in mental health research as well as epidemiology, health services, economics, disparities, outcomes & quality assessment, and conducting pragmatic clinical trials in our health systems. We conduct "real world" research in health systems serving over 12 million patients.
+
+You can find us at http://mhresearchnetwork.org
 
 Our data comes from the Health Care Systems Research Network (HCSRN) Virtual Data Warehouse (VDW.)  For more information, see: http://www.hcsrn.org/en/About/Data/wysiwyg.html
 
+Please do use, modify, or re-purpose any of the tools you find here.  And let us know if you find errors or discover improvements.
+
+We make these tools available under Matt Might's "CRAPL License":  http://matt.might.net/articles/crapl/CRAPL-LICENSE.txt
+
+In short:  Use at your own risk, and share what you learn from our mistakes.
 
 For basic documentation, see "Description of MHRN VDW data.doc" and "MHRNdatadictionary2011.doc"
 
